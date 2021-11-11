@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## Glad to see you here
 - 🔭 I'm an IT enthusiast and a programming lover
 - 👯 I’m looking to collaborate on interesting projects just for fun
