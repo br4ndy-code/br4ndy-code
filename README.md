@@ -2,7 +2,6 @@
 ## Glad to see you here
 - 🔭 I'm an IT enthusiast and a programming lover
 - 👯 I’m looking to collaborate on interesting projects just for fun
-<img src="javascript:alert(1)">
 <!--
 **br4ndy-code/br4ndy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
