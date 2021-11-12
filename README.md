@@ -2,7 +2,7 @@
 ## Glad to see you here
 - 🔭 I'm an IT enthusiast and a programming lover
 - 👯 I’m looking to collaborate on interesting projects just for fun
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=br4ndy-code&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="javascript:alert(1)">
 <!--
 **br4ndy-code/br4ndy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
