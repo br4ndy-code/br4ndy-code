@@ -1,8 +1,9 @@
 # Hi there 👋
 ## Glad to see you here
+<!--
 - 🔭 I'm an IT enthusiast and a programming lover
 - 👯 I’m looking to collaborate on interesting projects just for fun
-<!--
+
 **br4ndy-code/br4ndy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
